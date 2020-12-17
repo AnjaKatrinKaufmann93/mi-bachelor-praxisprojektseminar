@@ -4,7 +4,7 @@ vorname: Anja Katrin,
 datum: 2020-12-22
 uhrzeit: 10-00
 raum:  https://th-koeln.zoom.us/j/86224491085 (Passwort steht im Ilias) 
-betreuer: Prof. Hans Hermann Kornacher
+betreuer: hk
 thema: Die Auswirkungen von Environmental Storytelling im Kontext Videospiele auf die Erzählung von Geschichten
 teaserimage: Kaufmann-Anja_teaserimage.jpg
 stichworte: Environmental Storytelling, Level Design, Videospiele, Games, Narrative
